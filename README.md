@@ -1,0 +1,1 @@
+## AWS Projects which are created using AWS Console, CLI etc.
